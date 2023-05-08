@@ -987,6 +987,7 @@ img {
     color: var(--color-iris);
     text-decoration: none;
     white-space: nowrap;
+    hyphens: none;
 }
 .mobile-menu-contacts .contact-link-mail {
     padding: 0;
