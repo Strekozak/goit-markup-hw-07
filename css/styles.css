@@ -986,7 +986,7 @@ img {
     text-transform: capitalize;
     color: var(--color-iris);
     text-decoration: none;
-    word-break: keep-all;
+    white-space: nowrap;
 }
 .mobile-menu-contacts .contact-link-mail {
     padding: 0;
