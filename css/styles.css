@@ -952,6 +952,14 @@ img {
     width: 100%;
   }
 }
+@media only screen and (orientation: landscape) {
+ .modal {
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, 0%) scale(1);
+    overflow: scroll;
+ }
+}
 @media only screen and (min-width: 1158px) {
     .modal {
         padding: 72px 24px 24px;
