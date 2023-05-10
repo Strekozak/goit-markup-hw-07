@@ -844,7 +844,7 @@ img {
         margin-left: auto;
     }
 }
-.footer-subscribe-form {    
+.footer-subscribe-form {     
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -864,7 +864,7 @@ img {
 }
 
 .footer-input {
-    width: 320px;        
+    min-width: 320px;        
     height: 40px;
     padding: 8px 16px;
     margin-bottom: 16px;
@@ -943,11 +943,11 @@ img {
 
 }
 @media only screen and (orientation: landscape) {
- /* .modal {
+ .modal {
     top: 0%;
     left: 50%;
     transform: translate(-50%, 0%) scale(1);  
- } */
+ }
  .backdrop.is-hidden {
     overflow: scroll;
  }
