@@ -1152,14 +1152,12 @@ img {
 .menu-container.is-open {
     transform: translateX(0);
 }
-
 .menu-container .menu-toggle {
     position: absolute;
     top: 24px;
     right: 24px;
     color: var(--color-navy-blue);
 }
-
 .mobile-menu {
     padding: 0;
     margin: 0;
