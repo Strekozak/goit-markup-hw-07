@@ -864,7 +864,7 @@ img {
 }
 
 .footer-input {
-    min-width: 320px;        
+    width: 320px;        
     height: 40px;
     padding: 8px 16px;
     margin-bottom: 16px;
@@ -876,6 +876,7 @@ img {
     line-height: 2.00;
     letter-spacing: 0.04em;    
 }
+
 @media only screen and (min-width: 768px) {
 .footer-input {
     width: 264px;
