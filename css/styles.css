@@ -835,6 +835,7 @@ img {
 .footer-social-icon {
     fill: currentColor;
 }
+
 @media only screen and (max-width: 768px) {
 .form-footer {
         width: 100%;
